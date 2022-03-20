@@ -25,8 +25,8 @@ Projeto Facebook Login Clone - Colocando em prática o aprendizado sobre as func
  # Entrar no repositório
  $ cd facebook-tailwind
 
- # Instalar as dependências
- $ npm install
+ # Executar
+  Vá para src/index.html para ver a primeira visualização.
 ```
 
 
